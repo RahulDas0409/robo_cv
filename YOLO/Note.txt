@@ -1,0 +1,3 @@
+yolov4.weights file is not uploaded due to it's large size please download it from the given link.
+
+https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
